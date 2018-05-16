@@ -1,0 +1,36 @@
+#index 8
+#* The hierarchical ordering in Multiattribute files
+#@ C. C. Chang;M. W. Du;R. C. T. Lee
+#t 1983
+#c Information Sciences: an International Journal
+
+#index 9
+#* Insertion languages
+#@ David Haussler
+#t 1983
+#c Information Sciences: an International Journal
+
+#index 10
+#* The Three-Machine No-Wait Flow Shop is NP-Complete
+#@ Hans Röck ; George M. Trojan
+#t 1984
+#c Journal of the ACM (JACM)
+#% 289259
+
+#index 11
+#* Lower Bounds and Fast Algorithms for Sequence Acceleration
+#@ George M. Trojan
+#t 1984
+#c Journal of the ACM (JACM)
+#% 289024
+#% 408638
+
+#index 12
+#* Space-Time Trade-Offs for Banded Matrix Problems
+#@ John E. Savage; ABC
+#t 1984
+#c Journal of the ACM (JACM)
+#% 289024
+#% 408638
+#% 600828
+#% 688897
